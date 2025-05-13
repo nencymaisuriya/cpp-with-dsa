@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    const float PI = 3.1416;
+    const float PI = 3.14;
     float r, per;
 
     cout << "Enter the radius of circle: ";
